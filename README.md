@@ -51,5 +51,4 @@ Performed the following:
 
 
 
-I can also prepare a **`requirements.txt`** for your repo so it’s complete for GitHub.
-Do you want me to create that now?
+
